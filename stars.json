@@ -1,0 +1,182 @@
+[
+  {
+    "full_name": "Automattic/wp-calypso",
+    "stargazers_count": 11856,
+    "open_issues_count": 3193,
+    "forks_count": 1879
+  },
+  {
+    "full_name": "stripe-samples/connect-onboarding-for-express",
+    "stargazers_count": 12,
+    "open_issues_count": 1,
+    "forks_count": 7
+  },
+  {
+    "full_name": "DistributedClocks/shiviz",
+    "stargazers_count": 35,
+    "open_issues_count": 69,
+    "forks_count": 6
+  },
+  {
+    "full_name": "salesagility/SuiteCRM",
+    "stargazers_count": 2643,
+    "open_issues_count": 1346,
+    "forks_count": 1501
+  },
+  {
+    "full_name": "owncloud/core",
+    "stargazers_count": 7495,
+    "open_issues_count": 1598,
+    "forks_count": 2031
+  },
+  {
+    "full_name": "zulip/zulip",
+    "stargazers_count": 14094,
+    "open_issues_count": 2168,
+    "forks_count": 4623
+  },
+  {
+    "full_name": "automerge/automerge",
+    "stargazers_count": 11075,
+    "open_issues_count": 59,
+    "forks_count": 3962
+  },
+  {
+    "full_name": "analysis-tools-dev/static-analysis",
+    "stargazers_count": 8879,
+    "open_issues_count": 4,
+    "forks_count": 1023
+  },
+  {
+    "full_name": "dwyl/learn-api-design",
+    "stargazers_count": 632,
+    "open_issues_count": 29,
+    "forks_count": 92
+  },
+  {
+    "full_name": "TheAlgorithms/Go",
+    "stargazers_count": 6030,
+    "open_issues_count": 101,
+    "forks_count": 1213
+  },
+  {
+    "full_name": "hackmdio/codimd",
+    "stargazers_count": 7313,
+    "open_issues_count": 287,
+    "forks_count": 891
+  },
+  {
+    "full_name": "netlify/netlify-cms",
+    "stargazers_count": 14362,
+    "open_issues_count": 599,
+    "forks_count": 2460
+  },
+  {
+    "full_name": "nextcloud/server",
+    "stargazers_count": 15024,
+    "open_issues_count": 1682,
+    "forks_count": 2673
+  },
+  {
+    "full_name": "dariubs/GoBooks",
+    "stargazers_count": 9948,
+    "open_issues_count": 2,
+    "forks_count": 1459
+  },
+  {
+    "full_name": "postlight/awesome-cms",
+    "stargazers_count": 2450,
+    "open_issues_count": 9,
+    "forks_count": 256
+  },
+  {
+    "full_name": "chrislusf/seaweedfs",
+    "stargazers_count": 12704,
+    "open_issues_count": 49,
+    "forks_count": 1591
+  },
+  {
+    "full_name": "okhosting/awesome-storage",
+    "stargazers_count": 143,
+    "open_issues_count": 1,
+    "forks_count": 28
+  },
+  {
+    "full_name": "randallkanna/awesome-job-list",
+    "stargazers_count": 877,
+    "open_issues_count": 13,
+    "forks_count": 98
+  },
+  {
+    "full_name": "cizixs/awesome-raft",
+    "stargazers_count": 27,
+    "open_issues_count": 0,
+    "forks_count": 5
+  },
+  {
+    "full_name": "dgryski/awesome-consensus",
+    "stargazers_count": 1551,
+    "open_issues_count": 1,
+    "forks_count": 168
+  },
+  {
+    "full_name": "statisticsnorway/distributed-saga",
+    "stargazers_count": 22,
+    "open_issues_count": 0,
+    "forks_count": 5
+  },
+  {
+    "full_name": "lysu/go-saga",
+    "stargazers_count": 207,
+    "open_issues_count": 5,
+    "forks_count": 52
+  },
+  {
+    "full_name": "tumregels/Network-Programming-with-Go",
+    "stargazers_count": 975,
+    "open_issues_count": 0,
+    "forks_count": 169
+  },
+  {
+    "full_name": "ben-manes/caffeine",
+    "stargazers_count": 10327,
+    "open_issues_count": 3,
+    "forks_count": 1080
+  },
+  {
+    "full_name": "etcd-io/etcd",
+    "stargazers_count": 37040,
+    "open_issues_count": 216,
+    "forks_count": 7919
+  },
+  {
+    "full_name": "celery/celery",
+    "stargazers_count": 17819,
+    "open_issues_count": 514,
+    "forks_count": 4071
+  },
+  {
+    "full_name": "gojek/awesome-distributed-systems",
+    "stargazers_count": 582,
+    "open_issues_count": 1,
+    "forks_count": 83
+  },
+  {
+    "full_name": "ipfs/go-ipfs",
+    "stargazers_count": 11844,
+    "open_issues_count": 1077,
+    "forks_count": 2285
+  },
+  {
+    "full_name": "ipfs/js-ipfs",
+    "stargazers_count": 5713,
+    "open_issues_count": 327,
+    "forks_count": 1092
+  },
+  {
+    "full_name": "g-plane/tiny-package-manager",
+    "stargazers_count": 144,
+    "open_issues_count": 0,
+    "forks_count": 9
+  }
+]
