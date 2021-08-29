@@ -31,7 +31,7 @@
   },
   {
     "full_name": "zulip/zulip",
-    "stargazers_count": 14094,
+    "stargazers_count": 14095,
     "open_issues_count": 2168,
     "forks_count": 4623
   },
@@ -73,7 +73,7 @@
   },
   {
     "full_name": "nextcloud/server",
-    "stargazers_count": 15024,
+    "stargazers_count": 15036,
     "open_issues_count": 1682,
     "forks_count": 2673
   },
@@ -92,7 +92,7 @@
   {
     "full_name": "chrislusf/seaweedfs",
     "stargazers_count": 12704,
-    "open_issues_count": 49,
+    "open_issues_count": 50,
     "forks_count": 1591
   },
   {
@@ -171,7 +171,7 @@
     "full_name": "ipfs/js-ipfs",
     "stargazers_count": 5713,
     "open_issues_count": 327,
-    "forks_count": 1092
+    "forks_count": 1093
   },
   {
     "full_name": "g-plane/tiny-package-manager",
