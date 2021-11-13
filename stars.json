@@ -1,8 +1,8 @@
 [
   {
     "full_name": "Automattic/wp-calypso",
-    "stargazers_count": 11921,
-    "open_issues_count": 3496,
+    "stargazers_count": 11923,
+    "open_issues_count": 3471,
     "forks_count": 1898
   },
   {
@@ -19,33 +19,33 @@
   },
   {
     "full_name": "salesagility/SuiteCRM",
-    "stargazers_count": 2729,
-    "open_issues_count": 1374,
-    "forks_count": 1530
+    "stargazers_count": 2732,
+    "open_issues_count": 1379,
+    "forks_count": 1534
   },
   {
     "full_name": "owncloud/core",
-    "stargazers_count": 7559,
-    "open_issues_count": 364,
-    "forks_count": 2040
+    "stargazers_count": 7562,
+    "open_issues_count": 368,
+    "forks_count": 2041
   },
   {
     "full_name": "zulip/zulip",
-    "stargazers_count": 14385,
-    "open_issues_count": 2271,
-    "forks_count": 4830
+    "stargazers_count": 14405,
+    "open_issues_count": 2267,
+    "forks_count": 4835
   },
   {
     "full_name": "automerge/automerge",
-    "stargazers_count": 11419,
-    "open_issues_count": 63,
-    "forks_count": 3977
+    "stargazers_count": 11426,
+    "open_issues_count": 64,
+    "forks_count": 3978
   },
   {
     "full_name": "analysis-tools-dev/static-analysis",
-    "stargazers_count": 9062,
-    "open_issues_count": 3,
-    "forks_count": 1047
+    "stargazers_count": 9072,
+    "open_issues_count": 6,
+    "forks_count": 1049
   },
   {
     "full_name": "dwyl/learn-api-design",
@@ -55,33 +55,33 @@
   },
   {
     "full_name": "TheAlgorithms/Go",
-    "stargazers_count": 7007,
-    "open_issues_count": 11,
-    "forks_count": 1408
+    "stargazers_count": 7044,
+    "open_issues_count": 8,
+    "forks_count": 1417
   },
   {
     "full_name": "hackmdio/codimd",
-    "stargazers_count": 7512,
+    "stargazers_count": 7515,
     "open_issues_count": 293,
-    "forks_count": 916
+    "forks_count": 917
   },
   {
     "full_name": "netlify/netlify-cms",
-    "stargazers_count": 14663,
+    "stargazers_count": 14672,
     "open_issues_count": 623,
-    "forks_count": 2554
+    "forks_count": 2562
   },
   {
     "full_name": "nextcloud/server",
-    "stargazers_count": 17306,
-    "open_issues_count": 1717,
-    "forks_count": 2825
+    "stargazers_count": 17332,
+    "open_issues_count": 1736,
+    "forks_count": 2829
   },
   {
     "full_name": "dariubs/GoBooks",
-    "stargazers_count": 10335,
+    "stargazers_count": 10348,
     "open_issues_count": 4,
-    "forks_count": 1512
+    "forks_count": 1513
   },
   {
     "full_name": "postlight/awesome-cms",
@@ -91,19 +91,19 @@
   },
   {
     "full_name": "chrislusf/seaweedfs",
-    "stargazers_count": 13116,
-    "open_issues_count": 52,
-    "forks_count": 1626
+    "stargazers_count": 13136,
+    "open_issues_count": 53,
+    "forks_count": 1627
   },
   {
     "full_name": "okhosting/awesome-storage",
-    "stargazers_count": 168,
+    "stargazers_count": 170,
     "open_issues_count": 2,
     "forks_count": 34
   },
   {
     "full_name": "randallkanna/awesome-job-list",
-    "stargazers_count": 960,
+    "stargazers_count": 963,
     "open_issues_count": 3,
     "forks_count": 106
   },
@@ -115,9 +115,9 @@
   },
   {
     "full_name": "dgryski/awesome-consensus",
-    "stargazers_count": 1597,
+    "stargazers_count": 1599,
     "open_issues_count": 1,
-    "forks_count": 174
+    "forks_count": 175
   },
   {
     "full_name": "statisticsnorway/distributed-saga",
@@ -127,51 +127,51 @@
   },
   {
     "full_name": "lysu/go-saga",
-    "stargazers_count": 216,
+    "stargazers_count": 218,
     "open_issues_count": 5,
     "forks_count": 57
   },
   {
     "full_name": "tumregels/Network-Programming-with-Go",
-    "stargazers_count": 1128,
+    "stargazers_count": 1129,
     "open_issues_count": 1,
     "forks_count": 183
   },
   {
     "full_name": "ben-manes/caffeine",
-    "stargazers_count": 10674,
+    "stargazers_count": 10689,
     "open_issues_count": 3,
-    "forks_count": 1119
+    "forks_count": 1120
   },
   {
     "full_name": "etcd-io/etcd",
-    "stargazers_count": 37801,
-    "open_issues_count": 184,
-    "forks_count": 8077
+    "stargazers_count": 37848,
+    "open_issues_count": 189,
+    "forks_count": 8090
   },
   {
     "full_name": "celery/celery",
-    "stargazers_count": 18188,
+    "stargazers_count": 18200,
     "open_issues_count": 488,
-    "forks_count": 4130
+    "forks_count": 4132
   },
   {
     "full_name": "gojek/awesome-distributed-systems",
-    "stargazers_count": 621,
+    "stargazers_count": 622,
     "open_issues_count": 1,
     "forks_count": 86
   },
   {
     "full_name": "ipfs/go-ipfs",
-    "stargazers_count": 12222,
-    "open_issues_count": 1088,
-    "forks_count": 2349
+    "stargazers_count": 12238,
+    "open_issues_count": 1084,
+    "forks_count": 2351
   },
   {
     "full_name": "ipfs/js-ipfs",
-    "stargazers_count": 5974,
-    "open_issues_count": 327,
-    "forks_count": 1138
+    "stargazers_count": 5988,
+    "open_issues_count": 326,
+    "forks_count": 1140
   },
   {
     "full_name": "g-plane/tiny-package-manager",
